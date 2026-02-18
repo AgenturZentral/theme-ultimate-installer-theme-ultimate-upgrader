@@ -1,11 +1,29 @@
 {
-  "name": "theme-ultimate/installer-theme-ultimate-upgrader",
-  "description": "Installer package for Theme Ultimate Upgrader.",
-  "type": "contao-provider",
-  "license": "proprietary",
-  "version": "1.0.0",
-  "require": {
-    "theme-ultimate/repository-license": "^1.0",
-    "theme-ultimate/theme-ultimate-upgrader": "^1.0"
-  }
+    "name":  "theme-ultimate/installer-theme-ultimate-upgrader",
+    "description":  "Installer package for Theme Ultimate Upgrader.",
+    "type":  "contao-provider",
+    "license":  "proprietary",
+    "version":  "1.0.1",
+    "homepage":  "https://www.theme-ultimate.de",
+    "keywords":  [
+                     "theme-ultimate",
+                     "contao",
+                     "installer",
+                     "upgrader"
+                 ],
+    "authors":  [
+                    {
+                        "name":  "Agentur Zentral GmbH",
+                        "homepage":  "https://www.agenturzentral.de/"
+                    }
+                ],
+    "support":  {
+                    "source":  "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-upgrader",
+                    "issues":  "https://github.com/AgenturZentral/theme-ultimate-installer-theme-ultimate-upgrader/issues",
+                    "docs":  "https://www.theme-ultimate.de"
+                },
+    "require":  {
+                    "theme-ultimate/repository-license":  "^1.0",
+                    "theme-ultimate/theme-ultimate-upgrader":  "^1.0"
+                }
 }
