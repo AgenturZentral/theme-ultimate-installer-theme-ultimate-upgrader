@@ -3,7 +3,7 @@
     "description":  "Installer package for Theme Ultimate Upgrader.",
     "type":  "contao-provider",
     "license":  "proprietary",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "homepage":  "https://www.theme-ultimate.de",
     "keywords":  [
                      "theme-ultimate",
@@ -24,6 +24,6 @@
                 },
     "require":  {
                     "theme-ultimate/repository-license":  "^1.0",
-                    "theme-ultimate/theme-ultimate-upgrader":  "^1.0"
+                    "theme-ultimate/theme-ultimate-upgrader":  "^1.0.1"
                 }
 }
